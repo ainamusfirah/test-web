@@ -1,0 +1,21 @@
+ul {
+   
+    text-align:center;
+    list-style-position: inside;
+}
+
+ol {
+   
+    text-align:center;
+    list-style-position: inside;
+}
+
+body {
+ background-image: url("petals.gif");
+}
+
+#hp {
+float: left;
+ margin: 0 0 0 15px;
+ padding: 30px:
+
